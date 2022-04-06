@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "nvr_player"
 include ':app'
 include ':nvr_search'
+include ':NvrSearch'
